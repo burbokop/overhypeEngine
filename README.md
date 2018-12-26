@@ -5,7 +5,9 @@
 application for js game gevelopment using libSDL.
 
 ## based on other my project: overhype nodejs package
+
 https://www.npmjs.com/package/overhype
+
 earlier version (antihype):
 
 https://www.npmjs.com/package/antihype
@@ -20,6 +22,8 @@ https://www.npmjs.com/package/antihype
 	v8
 ```
 #### links to them:
+
 https://www.libsdl.org/
+
 https://v8.dev/
 
