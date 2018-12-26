@@ -1,0 +1,8 @@
+{
+    "key": "plasma-launcher",
+    "audio": { "start": "./shoot.wav" },
+    "type": "weapon",
+    "rate": 30,
+    "projectile":"proj-plasma",
+    "props": {}
+}
