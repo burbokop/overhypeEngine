@@ -4,7 +4,7 @@
 
 application for js game gevelopment using libSDL.
 
-## based on other my project: overhype nodejs package
+#### based on other my project: overhype nodejs package
 
 https://www.npmjs.com/package/overhype
 
